@@ -1,0 +1,19 @@
+{
+    "maxDepth": 5,
+    "terminate": true,
+    "feature": {
+        "objectChance": 0,
+        "blockRadius": 5,
+        "strength": 1,
+        "interpolationRadius": 5,
+        "interpolator": "BILINEAR",
+        "entitySpawners": ["villager"]
+    },
+    "pieces": [
+        "houses/jap/j5",
+        "houses/jap/j4",
+        "houses/jap/j3",
+        "houses/jap/j2",
+        "houses/jap/j1"
+    ]
+}

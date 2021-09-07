@@ -1,0 +1,10 @@
+{
+    "maxDepth": 5,
+    "pieces": ["stronghold/portal/main"],
+    "terminate": false,
+    "lockY": 14,
+    "feature": {
+        "blockRadius": 25,
+        "entitySpawners": ["silverfish"]
+    }
+}

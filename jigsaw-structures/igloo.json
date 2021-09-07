@@ -1,0 +1,11 @@
+{
+    "feature": {
+        "blockRadius": 5,
+        "entitySpawners": ["villager"]
+    },
+    "maxDepth": 3,
+    "pieces": [
+        "igloo/top1",
+        "igloo/top2"
+    ]
+}
